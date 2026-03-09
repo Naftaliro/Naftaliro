@@ -1,6 +1,6 @@
 # Hey, I'm Naftali
 
-I build open-source tools for Linux desktop users — the kind of things that should exist but don't. My focus is on making system configuration accessible to people who shouldn't need a terminal to get their computer working the way they want.
+I build open-source tools for Linux users — the kind of things that should exist but don't. My focus is on making system configuration accessible to people who shouldn't need a terminal to get their computer working the way they want.
 
 ## What I'm Working On
 
