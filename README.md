@@ -14,7 +14,7 @@ I build open-source tools for Linux desktop users — the kind of things that sh
 
 I think Linux desktops are close to being genuinely great for everyday users, but the last mile of polish is often missing. My projects try to fill those gaps — proper onboarding, easy theming, sensible defaults — without dumbing anything down.
 
-Everything I ship is **GPL-3.0** licensed, properly audited, and designed to be installed and removed cleanly.
+Everything I ship is open-source (**GPL-3.0** for First Steps, **MIT** for the theme tools), properly audited, and designed to be installed and removed cleanly.
 
 ## Tech Stack
 
